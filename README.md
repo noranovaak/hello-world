@@ -1,2 +1,4 @@
 # hello-world
-First project in GitHub
+- 👋 Hi, I’m @noranovaak
+- 👀 I’m interested in UI design
+- 🌱 I’m currently learning how to use GitHub
